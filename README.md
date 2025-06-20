@@ -1,0 +1,2 @@
+# pemetaan-laptop-kupang
+web
